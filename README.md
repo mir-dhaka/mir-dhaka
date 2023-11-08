@@ -2,7 +2,7 @@
 - 👀 I’m interested in .net, python, go and scalable distributed system development
 - 🌱 I’m currently learning python with machine learning
 - 💞️ I’m looking to collaborate on machine learning projects
-- 📫 How to reach me: skype: mmdullah, email: mir.cuet@gmail.com, phone: +880-1878-688-007
+- 📫 How to reach me: skype: mmdullah, email: mir.cuet@gmail.com, phone: +44-7507672443
 
 <!---
 mir-dhaka/mir-dhaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
